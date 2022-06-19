@@ -1,0 +1,8 @@
+ServoSquared KEYWORD1
+attach KEYWORD2
+setup180Time KEYWORD2
+setupEase KEYWORD2
+hasStopped KEYWORD2
+isMoving KEYWORD2
+read KEYWORD2
+updatePosition KEYWORD2
